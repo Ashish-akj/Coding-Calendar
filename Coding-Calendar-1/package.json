@@ -1,0 +1,23 @@
+{
+  "name": "coding-calendar",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "dotenv": "^10.0.0",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "google-auth-library": "^7.10.1",
+    "googleapis": "^89.0.0",
+    "http-errors": "~1.6.3",
+    "mongoose": "^6.0.12",
+    "morgan": "~1.9.1",
+    "node-fetch": "^3.0.0",
+    "node-schedule": "^2.0.0"
+  }
+}
